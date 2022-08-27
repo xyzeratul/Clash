@@ -1,0 +1,9 @@
+# 内容：hentai@home network
+
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,hentaiathome.net
+IP-CIDR,94.100.24.67/22,no-resolve
+IP-CIDR,94.100.24.68/22,no-resolve
+IP-CIDR,94.100.24.69/22,no-resolve
+
+	
